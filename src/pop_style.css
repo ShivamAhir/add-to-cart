@@ -1,0 +1,13 @@
+.popup-content {
+    height: 70%;
+    overflow: scroll;
+    width: 40%;
+    border-radius: 30px;
+    box-sizing: border-box;
+    padding-left: 80px;
+    padding-right: 80px;
+
+}
+button{
+    cursor: pointer;
+}
